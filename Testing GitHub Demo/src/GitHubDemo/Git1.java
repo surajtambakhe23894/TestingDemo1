@@ -6,6 +6,10 @@ public class Git1 {
 	}
 	public void add()
 	{
-		System.out.println("add method1");	
+		System.out.println("add--- method1");	
+	}
+	public void sub()
+	{
+		System.out.println("sub-- method2");	
 	}
 }
