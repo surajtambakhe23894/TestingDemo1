@@ -6,8 +6,8 @@ public class Git1 {
 		Git1 g1=new Git1();
 		g1.add();
 		g1.sub();
-		GitDemo2 g2=new GitDemo2();
-		g2.m1();
+		//GitDemo2 g2=new GitDemo2();
+		//g2.m1();
 	}
 	public void add()
 	{
